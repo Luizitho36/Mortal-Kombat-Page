@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "key": "MK_1995",
+      "imgUrl": "./src/img/Movies/MK_(1995).jpg",
+      "title": "Mortal Kombat (1995)",
+      "argumento": "Durante numerosas generaciones se ha celebrado un torneo creado por los dioses ancianos llamado Mortal Kombat, en el que se enfrentan los guerreros de la Tierra contra el hechicero Shang Tsung y el monstruo de cuatro brazos llamado Goro, dos guerreros del Outworld. Se decidió que si el Outworld ganaba diez veces consecutivas el torneo podría invadir la Tierra y gobernarla. El Outworld ya ha ganado los nueve torneos anteriores consecutivamente, y para este décimo torneo, Raiden, el dios protector de la Tierra, ha puesto sus esperanzas en tres guerreros: Liu Kang, un joven monje shaolin que pretende vengar en el torneo la muerte de su hermano a manos de Shang Tsung; Johnny Cage, una estrella del cine de acción que participa en el torneo para demostrar que sus golpes son reales; Sonya, una agente de las fuerzas especiales que entra en el torneo para detener a un terrorista llamado Kano. Pero Shang Stung no va a dejar que los mortales de la Tierra estrope en todo en el décimo torneo y «recluta» a dos letales asesinos con su poder mental: Scorpion, un espectro viviente, y Sub-Zero, un ninja con poderes sobre el hielo.",
+      "argumento2": "Shang Tsung lleva a los luchadores del torneo en barco a su isla, lugar donde se celebra el torneo. En ese barco, Cage, Sonya y Liu Kang conocen a Art Lean, un gran luchador que más tarde es derrotado por Goro. En contra de lo previsto, los guerreros de la Tierra vencen sus combates: Sonya vence a Kano, Cage a Scorpion y a Goro; Liu Kang vence a Kitana (la hija adoptiva del emperador es descalificada), Sub-Zero, Reptile, y por último acaba con el propio hechicero en su fortaleza del Outworld. De este modo, los guerreros de la Tierra regresan a su hogar donde les espera una desagradable sorpresa: el emperador del Outworld, Shao Kahn, no está conforme con el resultado del torneo y decide arreglarlo a su modo, invadiendo la Tierra…"
+    },
+    {
+      "id": 2,
+      "key": "MK_1997",
+      "imgUrl": "./src/img/Movies/MK_(1997).jpg",
+      "title": "Mortal Kombat - La Aniquilación (1997)",
+      "argumento": "Shao Kahn, al no poder conquistar la Tierra en el torneo a través de Shang Tsung y Goro, decide invadirla saltándose las normas de los Dioses Antigüos. Al comenzar la invasión, Shao Kahn mata a Johnny Cage y anuncia a Raiden que la fusión del Outworld con la Tierra se habrá completado en seis días.",
+      "argumento2": "Tras escapar de los ninjas de Kahn, a los guerreros de la Tierra se les asigna una misión: Sonya debe encontrar a Jax, su compañero de las fuerzas especiales americanas; Liu Kang y Kitana han de buscar a Nightwolf, quien preparará a Liu Kang para el enfrentamiento con Kahn; mientras tanto, Raiden va al templo de los Dioses Ancianos para pedir explicaciones por su pasividad ante la invasión de Shao Kahn."
+    },
+    {
+      "id": 3,
+      "key": "MK_2021",
+      "imgUrl": "./src/img/Movies/MK_(2021).jpg",
+      "title": "Mortal Kombat (2021)",
+      "argumento": "En el Japón feudal del siglo XVII, los asesinos del clan Lin Kuei dirigidos por Bi-Han asesinan a los guerreros del clan rival Shirai Ryu, liderado por Hanzo Hasashi, incluidos la esposa y el hijo de Hanzo. Furioso por esto, Hanzo mata a los atacantes y lucha contra Bi-Han, pero éste le apuñala con su propio kunai. Un Hanzo moribundo le dice a Bi-Han que recuerde su rostro y muere, lo que provoca que su alma sea condenada al Infierno. Raiden, el Dios del Trueno, llega a la zona y se lleva a la hija sobreviviente recién nacida de Hanzo (del que Bi-Han no se había percatado), a un lugar seguro.",
+      "argumento2": "En el presente, el Mundo Exterior ha derrotado al Reino de la Tierra en nueve de los diez torneos conocidos como Mortal Kombat; si el Reino de la Tierra pierde el décimo torneo, las reglas establecen que será conquistado por el Mundo Exterior. Sin embargo, una antigua profecía afirma que la sangre de Hanzo Hasashi unirá a una nueva generación de campeones del Reino de la Tierra para impedir la victoria del Mundo Exterior. Consciente de ello, el hechicero devorador de almas Shang Tsung, que ha supervisado las últimas nueve victorias, envía a sus guerreros a matar a los campeones del Reino de la Tierra (identificados con una marca de dragón), antes de que comience el próximo torneo."
+    }
+  ]

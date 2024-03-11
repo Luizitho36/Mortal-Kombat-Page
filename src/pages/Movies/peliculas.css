@@ -1,0 +1,17 @@
+.divPrincipalPeliculas {
+    font-size: 15px;
+    color: rgb(234, 226, 243);
+    text-align: center;
+    margin: auto;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+.Movies{
+    padding: 10px;
+    margin: 5px;
+}
+
+@media screen and (max-width:650px){
+    
+}

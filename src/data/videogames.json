@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "key": "MK_1992",
+    "imgUrl": "./src/img/Games/MK_(1992).jpg",
+    "title": "Mortal Kombat (1992)",
+    "argumento": "Durante numerosas generaciones se ha celebrado un torneo creado por los dioses ancianos llamado Mortal Kombat, en el que se enfrentaban los guerreros de la Tierra contra los guerreros del Outworld de Shao Kahn. Se decidió que si el Outworld ganaba diez veces consecutivas el torneo podría invadir la Tierra y gobernarla. Tras ganar al gran Kung Lao, un monje Shaolin, los guerreros del Outworld, con Goro y Shang Tsung a la cabeza vencieron nueve veces consecutivas, pero hay una nueva generación de luchadores de la Tierra liderada por Liu Kang, que supone una seria amenaza para los planes de Shao Kahn."
+  },
+  {
+    "id": 2,
+    "key": "MKII",
+    "imgUrl": "./src/img/Games/MKII.jpg",
+    "title": "Mortal Kombat II (1993)",
+    "argumento": "Después del fracaso de Shang Tsung en Mortal Kombat, Shao Kahn decide solucionar la derrota de su hechicero en el torneo atrayendo a los guerreros de la Tierra hasta su reino, el Outworld, donde se enfrentará directamente con ellos.",
+    "argumento2": "Liu Kang y sus aliados se dirigen al Outworld con la esperanza de poner punto y final a la amezana del Outworld. Pero lo que no saben es que plan de Kahn saldrá adelante, porque tanto si acaba con las Fuerzas de la Luz como si no, planea invadir la Tierra…"
+  },
+  {
+    "id": 3,
+    "key": "MK3",
+    "imgUrl": "./src/img/Games/MK3.jpg",
+    "title": "Mortal Kombat 3 (1995)",
+    "argumento": "Tras el torneo del Outworld, Shao Kahn tiene planeado cual va a ser su próximo movimiento: resucitar a su antigua reina Sindel en nuestro planeta, para reclamar a su mujer y así poder acceder a la Tierra. Al hacer esto, Kahn cruza las puertas con sus guerreros y hechiceros, e inicia la invasión del Outworld a nuestro planeta.",
+    "argumento2": "Shao Kahn arrasa la Tierra y reclama todo alma humana como suya, pero hay ciertas almas que no puede tomar, la de los guerreros elegidos para representar a la Tierra en MK. Kahn forma unos grupos de extermino formados por centauros, que tienen la misión de acabar con los guerreros elegidos; su primera víctima es Kabal, a quien dan por muerto tras derrotarlo."
+  },
+  {
+    "id": 4,
+    "key": "MK4",
+    "imgUrl": "./src/img/Games/MK4.jpg",
+    "title": "Mortal Kombat 4 (1997)",
+    "argumento": "Hace miles de años, Shinnok era un Dios Anciano. Estos dioses son los auténticos soberanos de todos los reinos. Contemplan cómo se crean y destruyen los mundos y los gobiernan con infinita sabiduría. Sin embargo, Shinnok cayó en la codicia y en las ilusiones de falso poder sobre el nuevo Reino de la Tierra. Este reino le daría a Shinnok un poder inigualable, pero para ello tendría que enfrentarse a Raiden, el joven Dios del Trueno y protector de la Tierra.",
+    "argumento2": "Gracias al amuleto de los elementos, Shinnok pudo entrar en la Tierra y comenzó una batalla, en la que una civilización entera desapareció. Con la esperanza de librar a todos los reinos de la amenaza de Shinnok, Raiden inició una guerra que condujo a la Tierra a una época de oscuridad, pero finalmente Raiden pudo desterrar a Shinnok al Netherealm. Ahora, mucho tiempo después y tras la derrota de Shao Kahn a manos de lo guerreros de la Tierra, Shinnok, con la ayuda de su hechicero Quan Chi, escapa de sus confines y entra en Edenia. Desde allí comienza una guerra contra los Dioses Ancianos. Raiden debe actuar con rapidez si quiere evitar una guerra como la que se produjo hace miles de años."
+  },
+  {
+    "id": 5,
+    "key": "MKDA",
+    "imgUrl": "./src/img/Games/MKDA.jpg",
+    "title": "Mortal Kombat Deadly Alliance (2002)",
+    "argumento": "Durante la batalla que dio lugar a la derrota de Shinnok, Quan Chi logró salvar su vida, pero quedó atrapado en el Netherealm. Al menos de momento, Quan Chi mantiene en secreto que es él el poseedor del amuleto de Shinnok, así que espera prudentemente un tiempo hasta poder escapar de ese maldito lugar sin levantar sospechas y seguir con su plan. Al cruzar el portal que deja el infierno atrás, Quan Chi encuentra un antiguo ejército enterrado en una pirámide, listo para ser revivido y ser comandado para atacar los reinos que desee conquistar. Shang Tsung, aún bajo las órdenes de un debilitado Shao Kahn que lucha por no perder lo poco que le queda del Outworld, se instala en una región del Outworld en la que, con permiso de su emperador, construye un palacio para residir y conspirar contra los guerreros de la Tierra.",
+    "argumento2": "En contra de lo que cabía esperar, Quan Chi se aproxima a Shang Tsung con una oferta que hará realidad lo que ambos no pudieron realizar cuando estaban bajo el mando de Shinnok y Shao Kahn respectivamente. Al formarse esta Alianza Mortal, lo primero que hacen es eliminar a la mayor amenaza existente para sus planes: Liu Kang y Shao Kahn. Raiden, impotente por no poder hacer nada desde el panteón de los Dioses Ancianos, renuncia a su puesto y reúne a los guerreros de la Tierra y les cuenta las tristes noticias. Sin perder tiempo, deben viajar al Outworld para derrotar a la Alianza Mortal y evitar que lleven a cabo sus terroríficos planes…"
+  },
+  {
+    "id": 6,
+    "key": "MKD",
+    "imgUrl": "./src/img/Games/MKD.jpg",
+    "title": "Mortal Kombat Deception (2004)",
+    "argumento": "Los guerreros de la Tierra no pudieron frenar la resurrección del ejército del Rey Dragón a manos de la Alianza Mortal y fueron asesinados en una batalla épica contra los dos hechiceros. En un acto desesperado, Raiden desafía a la Alianza Mortal a combatir, y aunque Raiden lo hace bien y parece que va a vencer, finalmente es derrotado por Shang Tsung y Quan Chi. Entonces cuando parece que han acabado con Raiden, la Alianza Mortal se rompe y ambos hechiceros comienzan a combatir. Cuando Quan Chi vence, entra en escena el Rey Dragón, que ha regresado de entre los muertos tal y como las profecías anunciaban. El hechicero intenta enfrentarse a Onaga él solo, pero es incapaz de hacerle daño. Entonces se levanta Shang Tsung y ayuda a Quan Chi, y sorprendentemente, Raiden aparece y ayuda a los dos hechiceros, pero ni aún así logran hacer retroceder al recién resucitado Rey Dragón.",
+    "argumento2": "Raiden, entonces, se da cuenta de que sólo le queda una oportunidad para derrotar a Onaga, y es entonces cuando canaliza su esencia divina en una ráfaga de energía de inmenso poder y se la lanza al poderoso Onaga. Cuando la nube de polvo desaparece, únicamente queda en pie en Rey Dragón, con el amuleto de Quan Chi en su mano, siendo aparente que el sacrificio de Raiden fue en vano. Shujinko sabe que él dio a Onaga su poder, y que sólo él puede arrebatárselo."
+  },
+  {
+    "id": 7,
+    "key": "MKA",
+    "imgUrl": "./src/img/Games/MKA.png",
+    "title": "Mortal Kombat Armageddon (2006)",
+    "argumento": "«Ha habido muchos luchadores de gran poder con el paso de los milenios. Tras varias eras de Mortal Kombat se ha causado un gran desgaste en los reinos. El punto crítico finalmente se ha alcanzado. Se predijo que los combatientes algún día serían muy poderosos y numerosos. Si se les permitiese seguir descontrolados, sus intensos combates debilitarían y romperían los reinos, trayendo el Apocalipsis.",
+    "argumento2": "Los Dioses Ancianos exigieron la creación de una salvaguardia para evitar la destrucción total… una que se valdría de la insaciable sed de sangre de los luchadores. Como polillas atraídas por las llamas, serían arrastrados a luchar. En el ápice de la destrucción, las alianzas se habrán roto, y los viejos odios serán reavivados. Finalmente, se librará la batalla definitiva. El Armagedón ha comenzado»."
+  },
+  {
+    "id": 8,
+    "key": "MKvsDCU",
+    "imgUrl": "./src/img/Games/MKvsDCU.png",
+    "title": "Mortal Kombat vs. DC Universe (2008)",
+    "argumento": "En el Reino de la Tierra, Shao Kahn está siendo expulsado por Raiden a través de un portal dimensional. Al mismo tiempo, en un mundo paralelo poblado por superhéroes y supervillanos, Superman expulsa a Darkseid de Metrópolis a través de un portal dimensional inestable. Ambos destierros, por suceder al mismo tiempo, constituyen un nexo uniendo dos universos: el de Mortal Kombat y el de DC. Ahora Shao Kahn y Darkseid son un único ser conocido como Dark Kahn que amenaza con la destrucción total.",
+    "argumento2": "La confusión reina entre los kombatientes y los héroes de DC… ambos toman al otro bando como enemigos. ¿Cómo terminará todo esto? ¿Será el fin de la existencia?"
+  },
+  {
+    "id": 9,
+    "key": "MK_(2011)",
+    "imgUrl": "./src/img/Games/MK_(2011).png",
+    "title": "Mortal Kombat (2011)",
+    "argumento": "La misión que el dios edeniano Argus y su esposa, la hechicera Delia, dispusieron para sus hijos Taven y Daegon con la finalidad de salvar los reinos había sido un fracaso. El poder divino que otorgaba la derrota de la criatura de fuego, Blaze, estaba en manos de Shao Kahn, el comienzo del Armagedón era ya un hecho. Los kombatientes que acudieron a la pirámide de Argus en busca del poder de Blaze habían muerto en la gran batalla que había tenido lugar; tan solo resistía el Dios del Trueno. Antes de que Shao Kahn acabara con su vida, Raiden pudo enviar un mensaje a través del tiempo con el objetivo de cambiar la historia y así poder acabar con Shao Kahn en el pasado, mientras era vulnerable.",
+    "argumento2": "En la isla de Shang Tsung, Raiden y Liu Kang se preparaban para el comienzo del torneo Mortal Kombat. El Reino de la Tierra debía evitar desesperadamente la décima victoria consecutiva del Outworld a manos de Goro y Shang Tsung si quería frustrar los planes del Emperador Shao Kahn de invadir la Tierra. Raiden se sintió aturdido durante unos momentos, había recibido recuerdos de hechos futuros junto con las palabras «Él debe ganar». La confusión se apoderó de Raiden al intentar buscar el sentido a esas palabras y recuerdos. Sabía que él mismo lo había enviado desde el futuro, justo antes de morir, con un propósito claro de alterar el curso de la historia: haría lo necesario para impedir el Armagedón y proteger la existencia del Reino de la Tierra."
+  },
+  {
+    "id": 10,
+    "key": "MKX",
+    "imgUrl": "./src/img/Games/MKX.png",
+    "title": "Mortal Kombat X (2015)",
+    "argumento": "Tras evitar el Armagedón, Raiden y las fuerzas de la Tierra habían conseguido repeler el ataque de Shao Kahn a un alto precio: Kung Lao, Kitana, Kabal, Smoke, Stryker, Sub-Zero, Jax, Nightwolf y Liu Kang perdieron su vida durante el conflicto y pasaron a formar parte del ejército de resucitados comandado por Quan Chi. El ataque del Infierno, con Shinnok y Quan Chi dirigiendo los acontecimientos desde hace mucho tiempo en las sombras, no se hizo esperar. Con el Reino de la Tierra debilitado tras la invasión del Outworld era el momento perfecto para asestar a Raiden y sus pocos aliados el golpe de gracia. Pero poco se esperaba el Dios Antiguo Shinnok que entre los aliados de Raiden se encontraba el heredero de un poder destinado a combatir a los dioses mismos; Johnny Cage es, sin saberlo, portador de un poder que puede ser clave para detener esta amenaza.",
+    "argumento2": "Mientras tanto, en el Outworld, la muerte de Shao Kahn dejó un vacío de poder que rápidamente fue llenado por Mileena como legítima heredera. Sin embargo, una facción de guerreros encabezados por Kotal Kahn, descontentos con el liderazgo del clon de Kitana, le arrebataron el poder, dando lugar al estallido de la Guerra Civil del Outworld."
+  },
+  {
+    "id": 11,
+    "key": "MK11",
+    "imgUrl": "./src/img/Games/MK11.png",
+    "title": "Mortal Kombat 11 (2019)",
+    "argumento": "El ataque infernal del NetherRealm había sido repelido por los campeones de la Tierra y Shinnok fue neutralizado gracias al poder ancestral que corre por las venas de la familia Cage. Como último paso para revertir las acciones de Lord Shinnok, Raiden se introdujo en la esencia de Fuerza Vital de la Tierra que había jurado proteger, el Jinsei, para purificarlo de la corrupción con la que Shinnok lo había mancillado. Al salir del Jinsei, Raiden no era el mismo. Sí, había salvado a la Tierra, pero el coste había sido perder su estabilidad mental y espíritu pacífico. Ahora Raiden protegería la Tierra de sus enemigos sin miramientos, acabando con la existencia de quien suponga una amenaza para el reino. Cuando recuperó sus energías ancló el amuleto de Shinnok en su pecho y fue a visitar al derrotado Dios Caído Shinnok.",
+    "argumento2": "Encadenado, Shinnok se alegró de atestiguar el cambio de Raiden, felicitándolo por su nueva siniestra existencia. Raiden no tuvo clemencia y torturó a Shinnok con su electricidad hasta que lo decapitó… y este hecho inaudito provocó que Kronika, la Titán del Tiempo, apareciera en la Tierra con la intención de crear una nueva línea temporal sin las interferencias del molesto protector de la Tierra… una nueva línea del tiempo sin Raiden."
+  },
+  {
+    "id": 12,
+    "key": "MK1",
+    "imgUrl": "./src/img/Games/MK1.jpg",
+    "title": "Mortal Kombat 1 (2023)",
+    "argumento": "«Con Mortal Kombat 1, queremos imaginar de cero el universo de una franquicia legendaria que cautiva al público desde hace más de 30 años y no deja de mejorar con cada entrega», ha declarado David Haddad, presidente de Warner Bros. Games. «El talentoso equipo de NetherRealm Studios sigue desarrollando la serie con audacia, llevándola por caminos que la acercan a nuevos públicos. Creemos que Mortal Kombat 1 atraerá a más jugadores sin dejar de encandilar a nuestros incondicionales de siempre»",
+    "argumento2": "«Mortal Kombat 1 supone un nuevo comienzo para la franquicia, y tenemos unas ganas locas de compartir con nuestros seguidores su novedosa historia y la reinvención de sus personajes clásicos», afirma Ed Boon, director creativo de NetherRealm Studios y cocreador de Mortal Kombat. «Otra novedad es nuestro sistema de kombatientes kameo, que incorpora un plantel exclusivo de personajes de apoyo. Tenemos muchas ganas de mostrar al mundo esta característica y más elementos novedosos del juego muy pronto»."
+  }
+]

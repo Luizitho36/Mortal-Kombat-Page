@@ -1,0 +1,43 @@
+.e-Commerce-principal {
+  color: #d5c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.lista-e-Commerce {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin: 17px;
+}
+
+.carrito{
+  color:rgb(128, 165, 196);
+  margin: 3px;
+}
+
+.lista-carrito {
+  position:fixed;
+  background: rgb(139, 44, 168);
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  margin: 17px;
+}
+
+.contador-carrito {
+  color:rgb(85, 24, 76);
+  background-color: rgb(182, 204, 214);
+  border-radius: 20px;
+  padding: 13px;
+  border: 2px solid rgb(27, 2, 64);
+}
+
+@media screen and (max-width: 650px) {
+}
